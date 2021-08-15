@@ -1,7 +1,9 @@
 # Medical Image Classification Using the MedNIST Dataset
 
 Using Pytorch and Flask
+
 Contexte
+
 L'entreprise a remporté un appel d'offre du CHRU de Nancy pour la réalisation d'un POC (Proof Of Concept) d'une solution IA capable de classer les images radios en six catégories.
 L'objectif est de prouver les compétences techniques de votre start-up à mener à bien ce projet et faire adhérer le corps médical au projet Health Data Hub.
 Le Health Data Hub étant en cours de mise en œuvre, l'entreprise utilise le dataset MedNIST.
